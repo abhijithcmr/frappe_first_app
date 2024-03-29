@@ -1,7 +1,7 @@
 app_name = "library_management"
 app_title = "Library Management"
 app_publisher = "Abhijith P"
-app_description = "Library Management System"
+app_description = "Library Management System by Abhijith"
 app_email = "abhijith@entri.me"
 app_license = "mit"
 # required_apps = []
